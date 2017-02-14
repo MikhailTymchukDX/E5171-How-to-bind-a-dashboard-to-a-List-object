@@ -6,7 +6,8 @@ namespace Dashboard_BindingToList {
         public Form1() {
             InitializeComponent();
             int t=7777123;
-            string s = "fixed2";
+            string s = "fixed2"; 
+            some typo
         }
 
         private void Form1_Load(object sender, System.EventArgs e) {

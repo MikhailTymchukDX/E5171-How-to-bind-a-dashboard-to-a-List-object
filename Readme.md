@@ -1,5 +1,5 @@
 <h1>E5171-How-to-bind-a-dashboard-to-a-List-object</h1>
-<customTag> Test description </customTag>
+<customTag> Test description123 </customTag>
 <versionSpecificPart>
   <h4>Implementation details</h4> 
   <p> Some tteexxtt </p>

@@ -5,7 +5,8 @@ namespace Dashboard_BindingToList {
     public partial class Form1 : XtraForm {
         public Form1() {
             InitializeComponent();
-            int t=25;
+            int t=256;
+            t++;
         }
 
         private void Form1_Load(object sender, System.EventArgs e) {
